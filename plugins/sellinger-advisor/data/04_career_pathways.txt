@@ -1,0 +1,118 @@
+AUTHORITY: LOWEST. Career context only — use for elective/minor/internship suggestions. Never use it to decide requirements, prerequisites, or offering terms. Employer names are examples, not Loyola placement data. Last reviewed 2026-10-06.
+
+======================================================================
+LOYOLA UNIVERSITY MARYLAND - SELLINGER SCHOOL OF BUSINESS
+CAREER PATHWAYS BY MAJOR
+======================================================================
+
+ACCOUNTING, BBA
+───────────────
+Entry-Level Roles: Staff Accountant, Audit Associate, Tax Associate
+Mid-Career: Senior Accountant, Audit Manager, Tax Manager, Controller
+Senior: CFO, Partner (Big 4/regional firm), VP Finance
+Certifications: CPA (requires 150 credits), CMA, CIA
+Top Employers: Big 4 (Deloitte, EY, KPMG, PwC), regional firms, corporations
+Grad School: Master of Accounting (Loyola 3+1 or 4+1), MBA
+
+BUSINESS ECONOMICS, BBA
+───────────────────────
+Entry-Level: Economic Analyst, Research Associate, Financial Analyst
+Mid-Career: Senior Economist, Policy Analyst, Business Strategist
+Senior: Chief Economist, VP Strategy, Director of Research
+Certifications: CFA (with finance courses), data analytics certs
+Top Employers: Federal Reserve, consulting firms, think tanks, banks
+Grad School: MA/PhD Economics, MBA, Public Policy
+
+FINANCIAL RISK MANAGEMENT & INSURANCE, BS
+──────────────────────────────────────────
+Entry-Level: Underwriting Analyst, Risk Analyst, Claims Analyst, Actuarial Analyst
+Mid-Career: Risk Manager, Senior Underwriter, Actuarial Associate
+Senior: Chief Risk Officer, VP Risk, Partner (insurance/consulting)
+Certifications: CPCU, ARM, FRM, actuarial exams (SOA/CAS)
+Top Employers: Insurance companies, reinsurers, banks, consulting firms
+Grad School: MS Finance, MS Actuarial Science, MBA
+
+FORENSIC ACCOUNTING, BBA
+─────────────────────────
+Entry-Level: Forensic Accountant, Fraud Examiner, Compliance Analyst
+Mid-Career: Senior Forensic Accountant, Investigation Manager
+Senior: Director of Forensic Services, Expert Witness, FBI Financial Crimes
+Certifications: CFE (Certified Fraud Examiner), CPA, CAMS
+Top Employers: FBI, SEC, Big 4 forensic practices, law firms, insurance
+Grad School: Master of Accounting, MS Criminal Justice, JD
+
+INFORMATION SYSTEMS & DATA ANALYTICS, BBA
+──────────────────────────────────────────
+Entry-Level: Business Analyst, Data Analyst, IT Consultant, Junior Developer
+Mid-Career: Senior Business Analyst, Data Engineer, Project Manager
+Senior: CIO, CTO, VP Technology, Director of Analytics
+Certifications: AWS, Azure, Tableau, PMP, CISSP
+Top Employers: Tech firms, consulting (Accenture, Deloitte), financial services
+Grad School: MS Information Systems, MS Data Science, MBA
+
+INTERNATIONAL BUSINESS, BBA
+────────────────────────────
+Entry-Level: International Trade Specialist, Global Operations Analyst
+Mid-Career: International Account Manager, Global Supply Chain Manager
+Senior: VP International Operations, Country Manager, Global Strategy Director
+Certifications: NASBITE CGBP, foreign language certifications
+Top Employers: Multinationals, export companies, trade organizations, NGOs
+Grad School: MBA (International), MA International Affairs
+
+MANAGEMENT, BBA
+────────────────
+Entry-Level: Management Trainee, Operations Analyst, HR Coordinator
+Mid-Career: Operations Manager, Project Manager, HR Manager
+Senior: VP Operations, COO, General Manager, Entrepreneur
+Certifications: PMP, SHRM-CP, Six Sigma
+Top Employers: Any industry — management skills are universal
+Grad School: MBA, MS Management, MS Organizational Leadership
+
+MARKETING, BBA
+──────────────
+Entry-Level: Marketing Coordinator, Social Media Specialist, Brand Assistant
+Mid-Career: Marketing Manager, Brand Manager, Digital Marketing Manager
+Senior: CMO, VP Marketing, Director of Brand Strategy
+Certifications: Google Analytics, HubSpot, Meta Blueprint, AMA PCM
+Top Employers: Consumer goods, tech, agencies, healthcare, retail
+Grad School: MBA (Marketing), MS Marketing Analytics
+
+REAL ESTATE, BS
+────────────────
+Entry-Level: Real Estate Analyst, Property Management Associate, Appraiser Trainee
+Mid-Career: Commercial Broker, Development Manager, Portfolio Analyst
+Senior: VP Real Estate, Managing Director, Developer/Principal
+Certifications: Real estate license, CCIM, CRE, MAI
+Top Employers: CBRE, JLL, Cushman & Wakefield, developers, REITs, banks
+Grad School: MS Real Estate, MBA, MS Finance
+
+SUSTAINABILITY MANAGEMENT, BBA
+───────────────────────────────
+Entry-Level: Sustainability Coordinator, ESG Analyst, Corporate Responsibility Associate
+Mid-Career: Sustainability Manager, ESG Reporting Manager, Green Supply Chain Manager
+Senior: Chief Sustainability Officer, VP ESG, Director of Corporate Responsibility
+Certifications: LEED, GRI Standards, SASB/ISSB reporting
+Top Employers: Large corporations, consulting firms, nonprofits, government
+Grad School: MS Sustainability, MBA, MS Environmental Policy
+
+FINANCE, BS
+───────────
+Entry-Level: Financial Analyst, Investment Banking Analyst, Corporate Finance Analyst, Credit Analyst, Wealth Management Associate
+Mid-Career: Portfolio Manager, Equity Research Associate, FP&A Manager, Treasury Manager, Commercial Lender
+Senior: CFO, Managing Director, Chief Investment Officer, Treasurer
+Certifications: CFA, CAIA, FRM, CFP, Series 7/63/65 (employer-sponsored)
+Elective fit: Investments track → FI 431, FI 433, FI 434, FI 380; Corporate/IB track → FI 340, FI 330 (sophomores), AC 301/302; Risk track → FRI 300/305/410; Real estate → FI/REE 225, 325, REE 445; Data-heavy roles → IS 420, IS 460, EC 420
+Experiential: FI 434 Student Managed Sellinger Applied Portfolio Fund; FI 499 internship; CFA Institute Research Challenge team
+Top Employers: Banks, asset managers, corporate finance departments, Big 4 advisory, insurers
+Grad School: MS Finance, MBA, CFA charter path
+
+SUPPLY CHAIN MANAGEMENT, BBA
+────────────────────────────
+Entry-Level: Supply Chain Analyst, Procurement/Sourcing Analyst, Logistics Coordinator, Operations Analyst
+Mid-Career: Supply Chain Manager, Category Manager, Logistics Manager, Demand Planner
+Senior: VP Supply Chain, Chief Procurement Officer, COO
+Certifications: APICS/ASCM CSCP or CPIM, Lean Six Sigma Green Belt, PMP (with OM 335)
+Track fit: IS & Data Analytics track for analytics roles; Quantitative track for planning/forecasting; International Trade track for global sourcing; Sustainability track for ESG supply chain roles
+Grad School: MS Supply Chain Management, MBA
+
+NOTE: The old knowledge base listed a "Digital Marketing & Analytics, BBA." It does not appear in the 2026–27 catalog. Students interested in digital marketing: Marketing BBA with MK 401, MK 415, MK 447, plus the ISDA minor or IS 460.

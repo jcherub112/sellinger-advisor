@@ -1,0 +1,252 @@
+course,section,title,credits,days,start,end,room,method,instructor,capacity,seats_available,waitlisted,status,dates,restrictions_comments
+AC 201,01,Financial Accounting,3.0,T/Th,3:05 PM,4:20 PM,Knott Hall 009,Lecture,"Zhu, Dr Hong",30,30,0,Open,1/11/2027-5/7/2027,
+AC 201,02,Financial Accounting,3.0,T/Th,4:30 PM,5:45 PM,Sellinger Hall 221,Lecture,"Zhu, Dr Hong",30,30,0,Open,1/11/2027-5/7/2027,
+AC 201,03,Financial Accounting,3.0,T/Th,6:00 PM,7:15 PM,Sellinger Hall 107,Lecture,"Zhu, Dr Hong",30,30,0,Open,1/11/2027-5/7/2027,
+AC 201,04,Financial Accounting,3.0,M,6:30 PM,9:15 PM,Sellinger Hall 223,Lecture,"Aspell, Christine",30,30,0,Open,1/11/2027-5/7/2027,
+AC 201,05,Financial Accounting,3.0,W,6:30 PM,9:15 PM,Sellinger Hall 221,Lecture,"Doggett, Mr Walter",30,30,0,Open,1/11/2027-5/7/2027,
+AC 202,01,Managerial Accounting,3.0,M/W/F,10:00 AM,10:50 AM,Sellinger Hall 104,Lecture,"Bender, Mr Michael W",28,28,0,Open,1/11/2027-5/7/2027,
+AC 202,02,Managerial Accounting,3.0,M/W/F,11:00 AM,11:50 AM,Sellinger Hall 104,Lecture,"Bender, Mr Michael W",28,28,0,Open,1/11/2027-5/7/2027,
+AC 202,03,Managerial Accounting,3.0,M/W/F,1:00 PM,1:50 PM,Sellinger Hall 201,Lecture,"Bender, Mr Michael W",28,28,0,Open,1/11/2027-5/7/2027,
+AC 202,04,Managerial Accounting,3.0,M/W/F,2:00 PM,2:50 PM,Sellinger Hall 201,Lecture,"Bender, Mr Michael W",28,28,0,Open,1/11/2027-5/7/2027,
+AC 302,01,Intermediate Accounting II,3.0,M/W,3:00 PM,4:15 PM,Sellinger Hall 107,Lecture,"Krahel, Dr John Peter",30,30,0,Open,1/11/2027-5/7/2027,
+AC 302,02,Intermediate Accounting II,3.0,M/W,4:30 PM,5:45 PM,Sellinger Hall 104,Lecture,"Krahel, Dr John Peter",30,30,0,Open,1/11/2027-5/7/2027,
+AC 302,W01,Intermediate Accounting II,3.0,TBA/Online,,,Online ASYN,Online/Asynchronous,"Chavez, Dr Stacy",15,15,0,Open,1/11/2027-5/7/2027,*Study Abroad students only. You must be registered manually for this.
+AC 401,01,Advanced Accounting,3.0,M/W,3:00 PM,4:15 PM,Knott Hall 003,Lecture,"Chavez, Dr Stacy",30,30,0,Open,1/11/2027-5/7/2027,
+AC 401,02,Advanced Accounting,3.0,M/W,4:30 PM,5:45 PM,Maryland Hall 242,Lecture,"Chavez, Dr Stacy",30,30,0,Open,1/11/2027-5/7/2027,
+AC 401,03,Advanced Accounting,3.0,T,6:00 PM,8:30 PM,Sellinger Hall 201,Lecture,"Chavez, Dr Stacy",30,30,0,Open,1/11/2027-5/7/2027,
+AC 402,01,Auditing Accounting Info Syst,3.0,T/Th,3:05 PM,4:20 PM,Sellinger Hall 003,Lecture,"Waldrup, Dr Bobby",30,30,0,Open,1/11/2027-5/7/2027,
+AC 402,02,Auditing Accounting Info Syst,3.0,T/Th,4:30 PM,5:45 PM,Sellinger Hall 003,Lecture,"Waldrup, Dr Bobby",30,30,0,Open,1/11/2027-5/7/2027,
+AC 420,W01,Forensic Accounting,3.0,W,4:30 PM,7:15 PM,Synchronous SYN,Synchronous,"Bishop-Monroe, Dr Robbie",30,15,0,Open,1/11/2027-3/5/2027,"*Restricted to sophomores, juniors, or seniors."
+AC 421,01,Auditing,3.0,T/Th,9:25 AM,10:40 AM,Sellinger Hall 003,Lecture,"Bishop-Monroe, Dr Robbie",30,30,0,Open,1/11/2027-5/7/2027,
+AC 421,02,Auditing,3.0,T/Th,10:50 AM,12:05 PM,Sellinger Hall 003,Lecture,"Bishop-Monroe, Dr Robbie",30,30,0,Open,1/11/2027-5/7/2027,
+AC 495,W01,Basic Volun Income Tax Assist,1.0,TBA/Online,,,Online ASYN,Online/Asynchronous,"Bender, Mr Michael W",75,75,0,Open,1/11/2027-5/7/2027,
+AC 496,W01,Advanced Volunteer Tax Assista,3.0,TBA/Online,,,Online ASYN,Online/Asynchronous,"Bender, Mr Michael W",120,120,0,Open,1/11/2027-5/7/2027,
+AC 499,01,Accnting Intrnshp (150 Hours),3.0,M,6:30 PM,9:00 PM,Knott Hall B03,Lecture; Internship/Externship,"Fairchild, Dr Lisa",90,5,0,Open,1/11/2027-5/7/2027,*Restricted to accounting majors or minors.
+BA 205,01,Creative Mindset,3.0,M/W,3:00 PM,4:15 PM,Maryland Hall 341,Lecture,"Tangrea, Dr Michael",25,25,0,Open,1/11/2027-5/7/2027,
+BA 401,01,New Venture Creation,3.0,W,3:00 PM,5:30 PM,Knott Hall 007,Lecture,"Weinstein, Mr Jon",16,16,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+BA 499,01,Business Administration Intern,3.0,M,6:30 PM,9:00 PM,Knott Hall B03,Lecture; Internship/Externship,"Fairchild, Dr Lisa",90,10,0,Open,1/11/2027-5/7/2027,*Restricted to Sellinger School majors. *Restricted to juniors or seniors.
+BH 196,01,Sellinger Schol Intrnshp Prep,1.0,F ; F,3:00 PM ; 4:00 PM,5:00 PM ; 6:00 PM,Knott Hall B01 ; Knott Hall B01,Lecture,"Keehan, Mr Sean P",32,32,0,Open,1/11/2027-5/7/2027,*Sellinger Scholars Program students only. *Restricted to first-year students.
+BH 196,02,Sellinger Schol Intrnshp Prep,1.0,F ; F,3:00 PM ; 4:00 PM,5:00 PM ; 6:00 PM, ; ,Lecture,"Spearman, Dr Christina",15,15,0,Open,1/11/2027-5/7/2027,*Sellinger Scholars Program students only. *Restricted to first-year students.
+BH 201,01,Management,3.0,T/Th,10:50 AM,12:05 PM,Maryland Hall 342,Lecture,"Michel, Dr John",26,26,0,Open,1/11/2027-5/7/2027,*Sellinger Scholars Program students only. *Restricted to sophomores.
+BH 201,02,Management,3.0,T/Th,1:40 PM,2:55 PM,Knott Hall 007,Lecture,"Michel, Dr John",26,26,0,Open,1/11/2027-5/7/2027,*Sellinger Scholars Program students only. *Restricted to sophomores.
+BH 230,01,Financial Management,3.0,T/Th,9:25 AM,10:40 AM,Sellinger Hall 107,Lecture,"Bartlett, Ms Linda",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to first-years or sophomores. *Sellinger Scholars Program students only.
+BH 230,02,Financial Management,3.0,T/Th,10:50 AM,12:05 PM,Sellinger Hall 203,Lecture,"Bartlett, Ms Linda",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to first-years or sophomores. *Sellinger Scholars Program students only.
+BH 260,01,Supply Chain&Operations Mgmt,3.0,M/W,3:00 PM,4:15 PM,Sellinger Hall 223,Lecture,"Matthews, Mr Brant",27,27,0,Open,1/11/2027-5/7/2027,*Sellinger Scholars Program students only. *Open to students with catalogue year 2020-2021 or beyond.
+BH 260,02,Supply Chain&Operations Mgmt,3.0,M/W,4:30 PM,5:45 PM,Sellinger Hall 107,Lecture,"Matthews, Mr Brant",27,27,0,Open,1/11/2027-5/7/2027,*Sellinger Scholars Program students only. *Open to students with catalogue year 2020-2021 or beyond.
+BH 305,01,Legal Environment of Business,3.0,M,6:30 PM,9:15 PM,Sellinger Hall 221,Lecture,"Lassiter, Mr Christian",25,15,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors. *Sellinger Scholars Program students only.
+DS 496,01,Ethical Data Science Capstone,3.0,M/W,1:15 PM,2:30 PM,Knott Hall 003,Lecture,"Drummey, Dr Kevin",16,16,0,Open,1/11/2027-5/7/2027,*Restricted to seniors. *Restricted to Data Science majors.
+DS 496,02,Ethical Data Science Capstone,3.0,T/Th,12:15 PM,1:30 PM,Sellinger Hall 105,Lecture,"Rzeszotarski, Dr Jeffrey",16,16,0,Open,1/11/2027-5/7/2027,*Restricted to seniors. *Restricted to Data Science majors.
+EC 102,01,Microeconomic Principles,3.0,M/W,4:30 PM,5:45 PM,Maryland Hall 241,Lecture,"Lyons, Mr Thomas",25,25,0,Open,1/11/2027-5/7/2027,
+EC 102,02,Microeconomic Principles,3.0,T/Th,10:50 AM,12:05 PM,Sellinger Hall 008,Lecture,"Tan, Dr Kerry",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,01,Macroeconomic Principles,3.0,M/W,3:00 PM,4:15 PM,Sellinger Hall 008,Lecture,"Lyons, Mr Thomas",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,01M,Macroeconomic Principles,3.0,M/W/F ; W,12:00 PM ; 1:00 PM,12:50 PM ; 1:50 PM,Hopkins Court 250 ; Hopkins Court 250,Messina Seminar,"Kelly, SJ, Fr James",16,0,0,Closed,1/11/2027-5/7/2027,*Restricted to first-year students. *You must be manually registered for the Messina seminar.
+EC 103,02,Macroeconomic Principles,3.0,M/W/F,8:00 AM,8:50 AM,Sellinger Hall 104,Lecture,"Keehan, Mr Sean P",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,02M,Macroeconomic Principles,3.0,M/W/F ; F,2:00 PM ; 1:00 PM,2:50 PM ; 1:50 PM,Hopkins Court 250 ; Hopkins Court 250,Messina Seminar,"Kelly, SJ, Fr James",16,2,0,Open,1/11/2027-5/7/2027,*Restricted to first-year students. *You must be manually registered for the Messina seminar.
+EC 103,03,Macroeconomic Principles,3.0,M/W/F,9:00 AM,9:50 AM,Sellinger Hall 104,Lecture,"Keehan, Mr Sean P",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,04,Macroeconomic Principles,3.0,M/W/F,10:00 AM,10:50 AM,Sellinger Hall 001,Lecture,"Keehan, Mr Sean P",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,05,Macroeconomic Principles,3.0,M/W/F,11:00 AM,11:50 AM,Sellinger Hall 001,Lecture,"Keehan, Mr Sean P",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,06,Macroeconomic Principles,3.0,M/W/F,11:00 AM,11:50 AM,Maryland Hall 343,Lecture,"Elkes, Ms Lynne",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,07,Macroeconomic Principles,3.0,M/W/F,12:00 PM,12:50 PM,Sellinger Hall 104,Lecture,"Doucoure, Dr Kadidiatou",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,08,Macroeconomic Principles,3.0,M/W/F,1:00 PM,1:50 PM,Sellinger Hall 104,Lecture,"Doucoure, Dr Kadidiatou",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,09,Macroeconomic Principles,3.0,T/Th,9:25 AM,10:40 AM,Sellinger Hall 104,Lecture,"Burger, Dr John",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,10,Macroeconomic Principles,3.0,T/Th,10:50 AM,12:05 PM,Knott Hall B01,Lecture,"Burger, Dr John",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,11,Macroeconomic Principles,3.0,T/Th,10:50 AM,12:05 PM,Maryland Hall 241,Lecture,"Sedgley, Dr Norman",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,12,Macroeconomic Principles,3.0,T/Th,12:15 PM,1:30 PM,Maryland Hall 440,Lecture,"Sedgley, Dr Norman",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,13,Macroeconomic Principles,3.0,T/Th,1:40 PM,2:55 PM,Sellinger Hall 223,Lecture,"Schwartz, Dr Jeremy",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,14,Macroeconomic Principles,3.0,T/Th,3:05 PM,4:20 PM,Knott Hall B01,Lecture,"Lyons, Mr Thomas",25,25,0,Open,1/11/2027-5/7/2027,
+EC 103,15,Macroeconomic Principles,3.0,T/Th,4:30 PM,5:45 PM,Knott Hall B01,Lecture,"Lyons, Mr Thomas",25,25,0,Open,1/11/2027-5/7/2027,
+EC 220,01,Business Statistics,3.0,M/W/F,10:00 AM,10:50 AM,Sellinger Hall 107,Lecture,"Deshpande, Ms Neeta",25,25,0,Open,1/11/2027-5/7/2027,
+EC 220,02,Business Statistics,3.0,M/W/F,11:00 AM,11:50 AM,Sellinger Hall 107,Lecture,"Deshpande, Ms Neeta",25,25,0,Open,1/11/2027-5/7/2027,
+EC 220,03,Business Statistics,3.0,M/W/F,12:00 PM,12:50 PM,Sellinger Hall 107,Lecture,"Cohen, Dr Billur",25,25,0,Open,1/11/2027-5/7/2027,
+EC 220,04,Business Statistics,3.0,M/W/F,1:00 PM,1:50 PM,Sellinger Hall 107,Lecture,"Cohen, Dr Billur",25,25,0,Open,1/11/2027-5/7/2027,
+EC 220,05,Business Statistics,3.0,M/W/F,2:00 PM,2:50 PM,Sellinger Hall 104,Lecture,"Cohen, Dr Billur",25,25,0,Open,1/11/2027-5/7/2027,
+EC 220,06,Business Statistics,3.0,T/Th,1:40 PM,2:55 PM,,Lecture,"Hovhannisyan, Dr Nune",25,25,0,Open,1/11/2027-5/7/2027,
+EC 220,07,Business Statistics,3.0,T/Th,3:05 PM,4:20 PM,Sellinger Hall 107,Lecture,"Hovhannisyan, Dr Nune",25,25,0,Open,1/11/2027-5/7/2027,
+EC 301,01,Intermed Macroeconomic Theory,3.0,T/Th,10:50 AM,12:05 PM,Maryland Hall 340,Lecture,"Hovhannisyan, Dr Nune",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+EC 302,01,Intermed Microeconomic Theory,3.0,T/Th,1:40 PM,2:55 PM,Sellinger Hall 008,Lecture,"Dougherty, Dr John",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+EC 341,01,Sp Tp Economics: Pol Econ Afri,3.0,M/W/F,2:00 PM,2:50 PM,Sellinger Hall 107,Lecture,"Doucoure, Dr Kadidiatou",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+EC 347,01,Economics of Race&Inequality,3.0,T/Th,10:50 AM,12:05 PM,Sellinger Hall 107,Lecture,"Schwartz, Dr Jeremy",25,25,0,Open,1/11/2027-5/7/2027,
+EC 348,01,Development Economics,3.0,T/Th,4:30 PM,5:45 PM,Sellinger Hall 008,Lecture,"Cohen, Dr Billur",25,25,0,Open,1/11/2027-5/7/2027,
+EC 348,W01,Development Economics,3.0,TBA/Online,,,Online ASYN,Online/Asynchronous,"Mendez, Dr Fabio",25,25,0,Open,1/11/2027-5/7/2027,
+EC 380,01,Sports Economics,3.0,M/W,4:30 PM,5:45 PM,Sellinger Hall 221,Lecture,"McGowan, SJ, Fr Richard",25,25,0,Open,1/11/2027-5/7/2027,
+EC 405,01,Game Theory & Economics Info,3.0,M/W,3:00 PM,4:15 PM,Knott Hall 004,Lecture,"Samuel, Dr A",25,25,0,Open,1/11/2027-5/7/2027,
+EC 420,01,Econometrics,3.0,T/Th,9:25 AM,10:40 AM,Sellinger Hall 008,Lecture,"Tan, Dr Kerry",25,25,0,Open,1/11/2027-5/7/2027,
+EC 430,01,Monetary Economics,3.0,T/Th,1:40 PM,2:55 PM,Maryland Hall 244,Lecture,"Burger, Dr John",25,25,0,Open,1/11/2027-5/7/2027,
+EC 446,01,International Trade,3.0,T/Th,3:05 PM,4:20 PM,Knott Hall 107,Lecture,"Sedgley, Dr Norman",25,25,0,Open,1/11/2027-5/7/2027,
+EC 499,01,Economics Internship,3.0,M,6:30 PM,9:00 PM,Knott Hall B03,Lecture; Internship/Externship,"Fairchild, Dr Lisa",90,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors. *Restricted to junior or senior economics majors or concentrators.
+FI 210,01,Personal Financial Management,3.0,M/W,3:00 PM,4:15 PM,Sellinger Hall 201,Lecture,"Bell, Mr Auburn",25,25,0,Open,1/11/2027-5/7/2027,
+FI 210,03,Personal Financial Management,3.0,W,6:30 PM,9:00 PM,Maryland Hall 341,Lecture,"Bell, Mr Auburn",25,25,0,Open,1/11/2027-5/7/2027,
+FI 210,04,Personal Financial Management,3.0,T,6:30 PM,9:00 PM,Maryland Hall 343,Lecture,"Bell, Mr Auburn",25,25,0,Open,1/11/2027-5/7/2027,
+FI 210,05,Personal Financial Management,3.0,T/Th,12:15 PM,1:30 PM,Sellinger Hall 107,Lecture,"Armstrong, Kathy",25,25,0,Open,1/11/2027-5/7/2027,
+FI 215,01,Jos T Ken Portfolio Mgmt Ex I,1.0,M,6:00 PM,8:00 PM,Maryland Hall 344,Lecture,"Bell, Mr Auburn",30,30,0,Open,1/11/2027-5/7/2027,
+FI 225,01,Real Estate,3.0,W,6:30 PM,9:00 PM,Sellinger Hall 223,Lecture,"Farley, Dori",25,10,0,Open,1/11/2027-5/7/2027,
+FI 230,01,Financial Management,3.0,T/Th,12:15 PM,1:30 PM,Maryland Hall 058,Lecture,"Bartlett, Ms Linda",25,25,0,Open,1/11/2027-5/7/2027,
+FI 230,02,Financial Management,3.0,T/Th,3:05 PM,4:20 PM,Knott Hall 006,Lecture,"Bartlett, Ms Linda",25,25,0,Open,1/11/2027-5/7/2027,
+FI 230,03,Financial Management,3.0,T/Th,3:05 PM,4:20 PM,Sellinger Hall 223,Lecture,"Emge, Mr Scott",25,25,0,Open,1/11/2027-5/7/2027,
+FI 230,04,Financial Management,3.0,T/Th,12:15 PM,1:30 PM,Sellinger Hall 004,Lecture,"Emge, Mr Scott",25,25,0,Open,1/11/2027-5/7/2027,
+FI 230,05,Financial Management,3.0,T/Th,4:30 PM,5:45 PM,Sellinger Hall 107,Lecture,"Chuluun, Dr Tuugi",25,25,0,Open,1/11/2027-5/7/2027,
+FI 230,06,Financial Management,3.0,W,6:30 PM,9:00 PM,Sellinger Hall 104,Lecture,"Schrouter, Mr Carlyle",25,25,0,Open,1/11/2027-5/7/2027,
+FI 305,01,Fundamentals of Insurance,3.0,Th,6:00 PM,8:30 PM,Sellinger Hall 003,Lecture,"Fairchild, Dr Lisa",25,10,0,Open,1/11/2027-5/7/2027,
+FI 322,01,Investments,3.0,T/Th,9:25 AM,10:40 AM,Sellinger Hall 102,Lecture,"D'Souza, Dr Frank",25,25,0,Open,1/11/2027-5/7/2027,
+FI 322,03,Investments,3.0,W,6:30 PM,9:00 PM,Knott Hall B03,Lecture,Staff,25,25,0,Open,1/11/2027-5/7/2027,
+FI 322,04,Investments,3.0,T,6:30 PM,9:00 PM,Maryland Hall 058,Lecture,"Fairchild, Dr Lisa",25,25,0,Open,1/11/2027-5/7/2027,
+FI 340,01,Global Financial Management,3.0,T/Th,12:15 PM,1:30 PM,Sellinger Hall 008,Lecture,"Chuluun, Dr Tuugi",25,25,0,Open,1/11/2027-5/7/2027,
+FI 340,02,Global Financial Management,3.0,T/Th,3:05 PM,4:20 PM,Sellinger Hall 008,Lecture,"Chuluun, Dr Tuugi",25,25,0,Open,1/11/2027-5/7/2027,
+FI 350,01,Financial Modeling,3.0,M/W,3:00 PM,4:15 PM,Sellinger Hall 102,Lecture,"Shin, Dr Yoon",25,25,0,Open,1/11/2027-5/7/2027,
+FI 350,02,Financial Modeling,3.0,M/W,4:30 PM,5:45 PM,Sellinger Hall 102,Lecture,"Shin, Dr Yoon",25,25,0,Open,1/11/2027-5/7/2027,
+FI 380,01,Fixd Income Secur:Valtn&Markt,3.0,W,6:30 PM,9:00 PM,Sellinger Hall 102,Lecture,"Urquhart, Charles",25,25,0,Open,1/11/2027-5/7/2027,
+FI 426,01,Sp Tp Finance: Intr Constr Mgm,3.0,T,6:30 PM,9:00 PM,Sellinger Hall 003,Lecture,"Cantley, Kelly",25,10,0,Open,1/11/2027-5/7/2027,
+FI 430,01,Financial Serv Frms&Envirnmts,3.0,T/Th,9:25 AM,10:40 AM,Knott Hall B01,Lecture,"Adams, Dr Samuel",25,25,0,Open,1/11/2027-5/7/2027,
+FI 430,02,Financial Serv Frms&Envirnmts,3.0,T/Th,1:40 PM,2:55 PM,Knott Hall B01,Lecture,"Adams, Dr Samuel",25,25,0,Open,1/11/2027-5/7/2027,
+FI 434,01,Stu Mngd Slngr App Port Fund,3.0,T/Th,10:50 AM,12:05 PM,Sellinger Hall 102,Lecture,"D'Souza, Dr Frank",20,20,0,Open,1/11/2027-5/7/2027,
+FI 441,01,Advanced Corporate Finance,3.0,T/Th,1:40 PM,2:55 PM,Sellinger Hall 104,Lecture,"Cherubini, Mr Jason",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+FI 441,02,Advanced Corporate Finance,3.0,T/Th,3:05 PM,4:20 PM,Maryland Hall 058,Lecture,"Cherubini, Mr Jason",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+FI 441,03,Advanced Corporate Finance,3.0,T/Th,4:30 PM,5:45 PM,Sellinger Hall 223,Lecture,"Cherubini, Mr Jason",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+FI 441,04,Advanced Corporate Finance,3.0,T/Th,6:30 PM,7:45 PM,Maryland Hall 341,Lecture,"Cherubini, Mr Jason",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+FI 499,01,Finance Internship,3.0,M,6:30 PM,9:00 PM,Knott Hall B03,Lecture; Internship/Externship,"Fairchild, Dr Lisa",90,25,0,Open,1/11/2027-5/7/2027,
+FRI 305,01,Fundamentals of Insurance,3.0,Th,6:00 PM,8:30 PM,Sellinger Hall 003,Lecture,"Fairchild, Dr Lisa",25,15,0,Open,1/11/2027-5/7/2027,
+FRI 499,01,Financ Risk Mgmt & Insr Inter,3.0,M,6:30 PM,9:00 PM,Knott Hall B03,Lecture; Internship/Externship,"Fairchild, Dr Lisa",90,7,0,Open,1/11/2027-5/7/2027,
+IB 282,01,Global Environment of Business,3.0,T/Th,9:25 AM,10:40 AM,Sellinger Hall 001,Lecture,"Schmidt-King, Astrid",25,25,0,Open,1/11/2027-5/7/2027,
+IB 282,02,Global Environment of Business,3.0,T/Th,10:50 AM,12:05 PM,Knott Hall B03,Lecture,"Sellin, Dr Julianne",25,25,0,Open,1/11/2027-5/7/2027,
+IB 282,03,Global Environment of Business,3.0,T/Th,12:15 PM,1:30 PM,Maryland Hall 340,Lecture,"Sellin, Dr Julianne",25,25,0,Open,1/11/2027-5/7/2027,
+IB 282,04,Global Environment of Business,3.0,T/Th,8:00 AM,9:15 AM,Sellinger Hall 001,Lecture,"Schmidt-King, Astrid",25,25,0,Open,1/11/2027-5/7/2027,
+IB 315,01,International Management,3.0,T,3:00 PM,5:30 PM,Maryland Hall 340,Lecture,"Sellin, Dr Julianne",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+IB 370,01,Sp Tp Int Bus: Adv Bus Tech Gl,3.0,Th,6:30 PM,9:15 PM,Sellinger Hall 201,Lecture,"Magnino, Ms Laurie",25,5,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+IB 371,01,Global Sustain Bus Case Study,1.0,W,9:00 AM,9:50 AM,Sellinger Hall 008,Lecture,"Schmidt-King, Astrid",20,15,0,Open,1/11/2027-5/7/2027,
+IB 372,01,Cross Cultural Intr Business,3.0,T,3:00 PM,5:30 PM,Knott Hall 105,Lecture,"Schmidt-King, Astrid",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+IB 499,01,Internat Business Internship,3.0,M,6:30 PM,9:00 PM,Knott Hall B03,Lecture; Internship/Externship,"Fairchild, Dr Lisa",90,2,0,Open,1/11/2027-5/7/2027,
+IS 251,01,Data Analytics&Inform Systems,3.0,M/W/F,11:00 AM,11:50 AM,Sellinger Hall 003,Lecture,"Lenzo, Mr Salvatore",25,25,0,Open,1/11/2027-5/7/2027,
+IS 251,01M,Data Analytics&Inform Systems,3.0,T/Th ; F,1:40 PM ; 2:00 PM,2:55 PM ; 2:50 PM,Sellinger Hall 005 ; Sellinger Hall 005,Messina Seminar,"Perera, Dr Pethigamage K",16,0,0,Closed,1/11/2027-5/7/2027,*Restricted to first-year students. *You must be manually registered for the Messina seminar.
+IS 251,02,Data Analytics&Inform Systems,3.0,M/W/F,12:00 PM,12:50 PM,Sellinger Hall 003,Lecture,"Lenzo, Mr Salvatore",25,25,0,Open,1/11/2027-5/7/2027,
+IS 251,03,Data Analytics&Inform Systems,3.0,T/Th,12:15 PM,1:30 PM,Sellinger Hall 003,Lecture,"Yim, Dr Dobin",25,25,0,Open,1/11/2027-5/7/2027,
+IS 251,04,Data Analytics&Inform Systems,3.0,M/W,3:00 PM,4:15 PM,Sellinger Hall 004,Lecture,"Jefferson, Dr Theresa",25,25,0,Open,1/11/2027-5/7/2027,
+IS 251,05,Data Analytics&Inform Systems,3.0,T/Th,1:40 PM,2:55 PM,Sellinger Hall 003,Lecture,"Yim, Dr Dobin",25,25,0,Open,1/11/2027-5/7/2027,
+IS 251,06,Data Analytics&Inform Systems,3.0,M/W,4:30 PM,5:45 PM,Knott Hall 108,Lecture,"Perera, Dr Pethigamage K",25,25,0,Open,1/11/2027-5/7/2027,
+IS 301,01,Location Analytics,3.0,M/W,4:30 PM,5:45 PM,Sellinger Hall 003,Lecture,"Tallon, Dr Paul",24,12,0,Open,1/11/2027-5/7/2027,
+IS 352,01,Intro to Programming in Python,3.0,T/Th,4:30 PM,5:45 PM,Sellinger Hall 004,Lecture,"London, Dr Jake",24,24,0,Open,1/11/2027-5/7/2027,
+IS 353,02,Data Mgmt&Database Systems,3.0,T/Th,6:30 PM,7:45 PM,Sellinger Hall 004,Lecture,"Finegan, Mr William",24,24,0,Open,1/11/2027-5/7/2027,
+IS 353,W02,Data Mgmt&Database Systems,3.0,TBA/Online,,,Online ASYN,Online/Asynchronous,"Tallon, Dr Paul",28,28,0,Open,1/11/2027-5/7/2027,
+IS 355,01,Cyber Security and Networks,3.0,M/W,3:00 PM,4:15 PM,Sellinger Hall 003,Lecture,"Perera, Dr Pethigamage K",24,24,0,Open,1/11/2027-5/7/2027,
+IS 358,01,Applied Machine Learning,3.0,M/W,4:30 PM,5:45 PM,Knott Hall 309,Lecture,"Jefferson, Dr Theresa",24,24,0,Open,1/11/2027-5/7/2027,
+IS 358,W01,Applied Machine Learning,3.0,TBA/Online,,,Online ASYN,Online/Asynchronous,"Jefferson, Dr Theresa",24,24,0,Open,1/11/2027-5/7/2027,
+IS 420,01,Artificial Intelligence in Bus,3.0,T/Th,3:05 PM,4:20 PM,Sellinger Hall 004,Lecture,"London, Dr Jake",24,24,0,Open,1/11/2027-5/7/2027,
+IS 453,01,Info Sys Analysis & Design,3.0,M,6:30 PM,9:15 PM,Sellinger Hall 104,Lecture,"McGarry, Ms Shelley Bliss",24,24,0,Open,1/11/2027-5/7/2027,
+IS 458,01,Web-Enabled Entrepreneurial Pr,3.0,T/Th,12:15 PM,1:30 PM,Sellinger Hall 102,Lecture,"Phillips-Wren, Dr Gloria",20,20,0,Open,1/11/2027-5/7/2027,
+IS 458,02,Web-Enabled Entrepreneurial Pr,3.0,T/Th,1:40 PM,2:55 PM,Sellinger Hall 102,Lecture,"Phillips-Wren, Dr Gloria",20,20,0,Open,1/11/2027-5/7/2027,
+IS 460,W01,Data Visualization,3.0,TBA/Online,,,Online ASYN,Online/Asynchronous,"Perera, Dr Pethigamage K",20,20,0,Open,1/11/2027-5/7/2027,
+IS 499,01,Internship in Info Systems,3.0,M,6:30 PM,9:00 PM,Knott Hall B03,Lecture; Internship/Externship,"Fairchild, Dr Lisa",90,5,0,Open,1/11/2027-5/7/2027,
+LW 109,01M,"Bus,Law & Soc:Special Topics",3.0,M/W ; F,3:00 PM ; 11:00 AM,4:15 PM ; 11:50 AM,Sellinger Hall 005 ; Sellinger Hall 005,Messina Seminar,"Brown, SJ, Fr Timothy",16,1,0,Open,1/11/2027-5/7/2027,*Restricted to first-year students. *You must be manually registered for the Messina seminar.
+LW 305,01,Legal Environment of Business,3.0,M,6:30 PM,9:15 PM,Sellinger Hall 221,Lecture,"Lassiter, Mr Christian",25,10,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+LW 305,02,Legal Environment of Business,3.0,T/Th,10:50 AM,12:05 PM,Sellinger Hall 104,Lecture,"Brown, SJ, Fr Timothy",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+LW 305,03,Legal Environment of Business,3.0,T/Th,12:15 PM,1:30 PM,Sellinger Hall 104,Lecture,"Brown, SJ, Fr Timothy",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+LW 305,04,Legal Environment of Business,3.0,T,6:30 PM,9:15 PM,Sellinger Hall 008,Lecture,"Kennedy, Dr Elizabeth",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+LW 305,05,Legal Environment of Business,3.0,W,6:30 PM,9:15 PM,Maryland Hall 343,Lecture,"Giampetro-Meyer, Dr A",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+LW 406,01,Commercial Law,3.0,W,6:30 PM,9:15 PM,Sellinger Hall 203,Lecture,"McBroom, Mr Scott",30,30,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+LW 409,01,SpTp Law&Soc Resp: Disability,3.0,M,6:30 PM,9:15 PM,Sellinger Hall 008,Lecture,"Hurson, Ms Abigail",20,20,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+LW 410,01,International Business Law,3.0,M,6:30 PM,9:00 PM,Maryland Hall 440,Lecture,"Green, Dr Taylor A",20,20,0,Open,1/11/2027-5/7/2027,
+LW 499,01,Internship in Legal Studies,3.0,M,6:30 PM,9:00 PM,Knott Hall B03,Lecture; Internship/Externship,"Fairchild, Dr Lisa",90,5,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+MA 005,01,Precalculus Lab,1.0,T,1:40 PM,2:55 PM,Knott Hall 105,Lecture/Lab,"Clark, Dr Timothy",30,30,0,Open,1/11/2027-5/7/2027,
+MA 103,01,Math for Elem Tchrs:Algebraic,3.0,W,6:00 PM,8:30 PM,Beatty Hall 318,Lecture,"Lauer, Lisa",20,20,0,Open,1/11/2027-5/7/2027,*Restricted to elementary education majors.
+MA 104,01,Math for Elem Tchrs:Geometric,3.0,T,4:30 PM,7:00 PM,Beatty Hall 318,Lecture,"Thereault, Christine",20,20,0,Open,1/11/2027-5/7/2027,*Restricted to elementary education majors.
+MA 109,01,Precalculus,3.0,M/W/F,1:00 PM,1:50 PM,Knott Hall 004,Lecture,"Yavantikar, Dr Amit",30,30,0,Open,1/11/2027-5/7/2027,
+MA 109,02,Precalculus,3.0,M/W/F,2:00 PM,2:50 PM,Knott Hall 004,Lecture,"Yavantikar, Dr Amit",30,30,0,Open,1/11/2027-5/7/2027,
+MA 117,01,"Mathematics,Numbers &Real Wrld",3.0,T/Th,4:30 PM,5:45 PM,Maryland Hall 241,Lecture,"Voos, Ms Leanne",30,30,0,Open,1/11/2027-5/7/2027,
+MA 151,01,Applied Calculus,3.0,T/Th,6:00 PM,7:15 PM,Maryland Hall 244,Lecture,"Calise, Mr Anthony",30,30,0,Open,1/11/2027-5/7/2027,*Closed to students minoring in mathematics or statistics.
+MA 151,02,Applied Calculus,3.0,M/W/F,10:00 AM,10:50 AM,Sellinger Hall 223,Lecture,"Basu, Dr Sudeshna",30,30,0,Open,1/11/2027-5/7/2027,*Closed to students minoring in mathematics or statistics.
+MA 151,03,Applied Calculus,3.0,M/W/F,11:00 AM,11:50 AM,Sellinger Hall 221,Lecture,"Basu, Dr Sudeshna",30,30,0,Open,1/11/2027-5/7/2027,*Closed to students minoring in mathematics or statistics.
+MA 151,04,Applied Calculus,3.0,M/W/F,12:00 PM,12:50 PM,Sellinger Hall 221,Lecture,"Basu, Dr Sudeshna",30,30,0,Open,1/11/2027-5/7/2027,*Closed to students minoring in mathematics or statistics.
+MA 151,05,Applied Calculus,3.0,M/W,4:30 PM,5:45 PM,Knott Hall 003,Lecture,"Quinton-Schein, Mr David",30,30,0,Open,1/11/2027-5/7/2027,*Closed to students minoring in mathematics or statistics.
+MA 151,06,Applied Calculus,3.0,T/Th,4:30 PM,5:45 PM,Knott Hall 009,Lecture,"Calise, Mr Anthony",30,30,0,Open,1/11/2027-5/7/2027,*Closed to students minoring in mathematics or statistics.
+MA 251,01,Calculus I,4.0,M/W/F ; Th,10:00 AM ; 9:25 AM,10:50 AM ; 10:40 AM,Sellinger Hall 203 ; Knott Hall 309,Lecture,"Oberbroeckling, Dr L",30,30,0,Open,1/11/2027-5/7/2027,
+MA 251,02,Calculus I,4.0,M/W/F ; Th,11:00 AM ; 10:50 AM,11:50 AM ; 12:05 PM,Sellinger Hall 203 ; Knott Hall 007,Lecture,"Oberbroeckling, Dr L",30,30,0,Open,1/11/2027-5/7/2027,
+MA 252,01,Calculus II,4.0,M/W/F ; T,9:00 AM ; 9:25 AM,9:50 AM ; 10:40 AM,Sellinger Hall 221 ; Knott Hall 007,Lecture,"Tao, Dr Jiyuan",30,30,0,Open,1/11/2027-5/7/2027,
+MA 252,02,Calculus II,4.0,M/W/F ; T,10:00 AM ; 10:50 AM,10:50 AM ; 12:05 PM,Sellinger Hall 221 ; Knott Hall 007,Lecture,"Knapp, Dr Michael",30,30,0,Open,1/11/2027-5/7/2027,
+MA 252,03,Calculus II,4.0,M/W/F ; Th,11:00 AM ; 12:15 PM,11:50 AM ; 1:30 PM,Knott Hall 108 ; Maryland Hall 241,Lecture,"Yavantikar, Dr Amit",30,30,0,Open,1/11/2027-5/7/2027,
+MA 301,01,Introduction to Linear Algebra,3.0,M/W/F,9:00 AM,9:50 AM,Maryland Hall 247,Lecture,"Duckworth, Dr Ethan",30,30,0,Open,1/11/2027-5/7/2027,
+MA 301,02,Introduction to Linear Algebra,3.0,M/W/F,10:00 AM,10:50 AM,Maryland Hall 440,Lecture,"Duckworth, Dr Ethan",30,30,0,Open,1/11/2027-5/7/2027,
+MA 302,01,Programming in Mathematics,3.0,T/Th,1:40 PM,2:55 PM,Knott Hall 318,Lecture,"Oberbroeckling, Dr L",20,20,0,Open,1/11/2027-5/7/2027,*Restricted to mathematics or statistics majors.
+MA 304,01,Ordinary Differentl Equations,3.0,T/Th,12:15 PM,1:30 PM,Knott Hall B01,Lecture,"Chidyagwai, Dr Prince",30,30,0,Open,1/11/2027-5/7/2027,
+MA 304,02,Ordinary Differentl Equations,3.0,T/Th,10:50 AM,12:05 PM,Sellinger Hall 201,Lecture,"Chidyagwai, Dr Prince",30,30,0,Open,1/11/2027-5/7/2027,
+MA 351,01,Calculus III,4.0,M/W/F ; T,11:00 AM ; 12:15 PM,11:50 AM ; 1:30 PM,Knott Hall 305 ; Knott Hall 309,Lecture,"Knapp, Dr Michael",30,30,0,Open,1/11/2027-5/7/2027,
+MA 442,01,Group Theory,3.0,M/W/F,9:00 AM,9:50 AM,Sellinger Hall 105,Lecture,"Knapp, Dr Michael",20,20,0,Open,1/11/2027-5/7/2027,
+MA 445,01,Advanced Linear Algebra,3.0,M/W/F,12:00 PM,12:50 PM,Knott Hall 004,Lecture,"Tao, Dr Jiyuan",25,25,0,Open,1/11/2027-5/7/2027,
+MA 491,01,SpTpApplMath:Fourier Analysis,3.0,M/W/F,2:00 PM,2:50 PM,Knott Hall 105,Lecture,"Basu, Dr Sudeshna",25,25,0,Open,1/11/2027-5/7/2027,
+MG 201,01,Management,3.0,T/Th,9:25 AM,10:40 AM,Maryland Hall 341,Lecture,"Dua, Dr Sanjay",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MG 201,02,Management,3.0,T/Th,12:15 PM,1:30 PM,Sellinger Hall 221,Lecture,"Dua, Dr Sanjay",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MG 201,03,Management,3.0,T/Th,1:40 PM,2:55 PM,Sellinger Hall 221,Lecture,"Dua, Dr Sanjay",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MG 201,04,Management,3.0,T/Th,3:05 PM,4:20 PM,Knott Hall 007,Lecture,"DeVader, Dr Christy",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MG 201,05,Management,3.0,T/Th,4:30 PM,5:45 PM,Knott Hall 007,Lecture,"DeVader, Dr Christy",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MG 201,06,Management,3.0,M/W,3:00 PM,4:15 PM,Sellinger Hall 104,Lecture,"Luvison, Dr Dave",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MG 201,W01,Management,3.0,TBA/Online,,,Online ASYN,Online/Asynchronous,Staff,25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MG 222,01,Intro to Sustainable Business,3.0,T/Th,9:25 AM,10:40 AM,Maryland Hall 340,Lecture,"Kang, Dr Jinyoung",25,25,0,Open,1/11/2027-5/7/2027,
+MG 222,02,Intro to Sustainable Business,3.0,T/Th,10:50 AM,12:05 PM,Sellinger Hall 001,Lecture,"Kang, Dr Jinyoung",25,25,0,Open,1/11/2027-5/7/2027,
+MG 304,01,Managing Innov&Entrepreneur,3.0,T/Th,9:25 AM,10:40 AM,Maryland Hall 243,Lecture,"Demirkan, Dr Irem",30,30,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MG 305,01,Managing Talent,3.0,T/Th,12:15 PM,1:30 PM,Sellinger Hall 201,Lecture,"DeVader, Dr Christy",30,30,0,Open,1/11/2027-5/7/2027,*Open to students with catalogue year 2020-2021 or beyond. *Restricted to juniors or seniors.
+MG 306,01,Managing Teams,3.0,T/Th,3:05 PM,4:20 PM,Maryland Hall 344,Lecture,"Luvison, Dr Dave",30,30,0,Open,1/11/2027-5/7/2027,*Open to students with catalogue year 2020-2021 or beyond. *Restricted to juniors or seniors.
+MG 315,01,International Management,3.0,T,3:00 PM,5:30 PM,Maryland Hall 340,Lecture,"Sellin, Dr Julianne",25,5,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MG 333,01,Global Strategy for Sustain,3.0,T/Th,1:40 PM,2:55 PM,Maryland Hall 241,Lecture,"Kang, Dr Jinyoung",30,30,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MG 371,01,Global Sustain Bus Case Study,1.0,W,9:00 AM,9:50 AM,Sellinger Hall 008,Lecture,"Schmidt-King, Astrid",20,5,0,Open,1/11/2027-5/7/2027,
+MG 402,01,Strategic Management,3.0,T/Th,10:50 AM,12:05 PM,Maryland Hall 247,Lecture,"Demirkan, Dr Irem",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+MG 402,02,Strategic Management,3.0,T/Th,1:40 PM,2:55 PM,Sellinger Hall 001,Lecture,"Demirkan, Dr Irem",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+MG 402,W01,Strategic Management,3.0,W,6:30 PM,9:15 PM,Synchronous SYN,Synchronous,"Helminiak, Mr Matthew",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+MG 402,W02,Strategic Management,3.0,Th,6:30 PM,9:15 PM,Synchronous SYN,Synchronous,"Gambhir, Vineet",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+MG 407,01,Managemnt Consulting Practicum,3.0,M,6:30 PM,9:15 PM,Maryland Hall 244,Lecture,"Hubbard, Mr Mark",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+MG 407,02,Managemnt Consulting Practicum,3.0,T,6:30 PM,9:15 PM,Sellinger Hall 223,Lecture,"Hubbard, Mr Mark",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+MG 410,01,Leadership in Organizations,3.0,M,3:00 PM,5:30 PM,Maryland Hall 247,Lecture,"Everett, Col William",25,25,0,Open,1/11/2027-5/7/2027,
+MG 419,01,Sp Tp: Adv Bus Tech Glbl Worl,3.0,Th,6:30 PM,9:15 PM,Sellinger Hall 201,Lecture,"Magnino, Ms Laurie",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MG 433,01,"Env, Soc, & Gov Reporting",3.0,Th,6:30 PM,9:15 PM,Sellinger Hall 203,Lecture,"Randol, Chandler",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+MG 451,01,Social Entrepreneurship,3.0,W,6:00 PM,8:45 PM,Sellinger Hall 008,Lecture,"Nwachu, Mr Augustine",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MG 499,01,Management Internship,3.0,M,6:30 PM,9:00 PM,Knott Hall B03,Lecture; Internship/Externship,"Fairchild, Dr Lisa",90,8,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MK 240,01,Marketing,3.0,T/Th,9:25 AM,10:40 AM,Maryland Hall 244,Lecture,"Athaide, Dr Gerard",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MK 240,02,Marketing,3.0,T/Th,10:50 AM,12:05 PM,Maryland Hall 344,Lecture,"Athaide, Dr Gerard",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MK 240,03,Marketing,3.0,T/Th,12:15 PM,1:30 PM,Maryland Hall 244,Lecture,"Zhao, Dr Terry",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MK 240,04,Marketing,3.0,T/Th,3:05 PM,4:20 PM,Maryland Hall 243,Lecture,"Zhang, Dr Jason",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MK 240,05,Marketing,3.0,T/Th,4:30 PM,5:45 PM,Sellinger Hall 001,Lecture,"Zhang, Dr Jason",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MK 240,06,Marketing,3.0,T,6:30 PM,9:15 PM,Maryland Hall 344,Lecture,"Fountain, Mr Bradley",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MK 346,02,Consumer Behavior,3.0,T/Th,1:40 PM,2:55 PM,Maryland Hall 243,Lecture,"Hart, Ms Kimberly",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MK 349,Z1,Customer Exp Mgmt: Disney Tour,3.0,W ; ,6:30 PM ; ,9:15 PM ; ,Maryland Hall 340 ; Building TBA NS,Lecture; Trip Course,"Klink, Dr Richard; Zhang, Dr Jason",16,16,0,Open,1/20/2027-3/3/2027,"*Restricted to sophomores, juniors, or seniors. *Restricted to students with cumulative GPA of 2.500 or higher."
+MK 349,Z2,Customer Exp Mgmt: Disney Tour,3.0,W ; ,6:30 PM ; ,9:15 PM ; ,Maryland Hall 342 ; Building TBA NS,Lecture; Trip Course,"Klink, Dr Richard; Zhang, Dr Jason",16,16,0,Open,1/20/2027-3/3/2027,"*Restricted to sophomores, juniors, or seniors. *Restricted to students with cumulative GPA of 2.500 or higher."
+MK 401,01,Content Marketing,3.0,M,6:30 PM,9:15 PM,Sellinger Hall 203,Lecture,"Yeh, Dr Marie",30,30,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+MK 415,01,Digital Marketing & Analytics,3.0,T,6:30 PM,9:15 PM,Sellinger Hall 221,Lecture,"Anderson, Ms Kimberly",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MK 440,01,Selling Concepts & Strategies,3.0,M/W,3:00 PM,4:15 PM,Maryland Hall 344,Lecture,"Yeh, Dr Marie",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MK 440,02,Selling Concepts & Strategies,3.0,M/W,4:30 PM,5:45 PM,Sellinger Hall 001,Lecture,"Yeh, Dr Marie",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MK 440,03,Selling Concepts & Strategies,3.0,T,6:30 PM,9:15 PM,Sellinger Hall 203,Lecture,"Gavin, Jeff",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MK 441,01,Customer Research&Analytics,3.0,T/Th,10:50 AM,12:05 PM,Maryland Hall 244,Lecture,"Zhao, Dr Terry",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to marketing majors, concentrations, or minors. *Restricted to seniors."
+MK 441,02,Customer Research&Analytics,3.0,T/Th,3:05 PM,4:20 PM,Sellinger Hall 201,Lecture,"Zhao, Dr Terry",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to marketing majors, concentrations, or minors. *Restricted to seniors."
+MK 442,01,Strategic Marketing,3.0,M/W,3:00 PM,4:15 PM,Sellinger Hall 203,Lecture,"Fountain, Mr Bradley",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+MK 442,02,Strategic Marketing,3.0,M/W,4:30 PM,5:45 PM,Sellinger Hall 203,Lecture,"Fountain, Mr Bradley",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+MK 442,03,Strategic Marketing,3.0,T/Th,3:05 PM,4:20 PM,Sellinger Hall 104,Lecture,"Hart, Ms Kimberly",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+MK 444,01,New Product Development & Mgmt,3.0,T/Th,1:40 PM,2:55 PM,Sellinger Hall 201,Lecture,"Athaide, Dr Gerard",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MK 449,01,Sp Tp Marketing: AI & Mrktng,3.0,M/W,4:30 PM,5:45 PM,Sellinger Hall 223,Lecture,"Felsen, Marc",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MK 451,01,Retail Marketing,3.0,T/Th,9:25 AM,10:40 AM,Maryland Hall 440,Lecture,"Hart, Ms Kimberly",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MK 453,01,Sports Marketing,3.0,Th,6:30 PM,9:15 PM,Sellinger Hall 001,Lecture,"Gentile, Mr Marco",25,25,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+MK 499,01,Marketing Internship,3.0,T,6:30 PM,9:15 PM,Sellinger Hall 001,Lecture; Internship/Externship,"Klink, Dr Richard",25,25,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+OM 260,01,Supply Chain&Operations Mgmt,3.0,T/Th,9:25 AM,10:40 AM,Sellinger Hall 223,Lecture,"Brown, II, Dr James R",24,24,0,Open,1/11/2027-5/7/2027,
+OM 260,02,Supply Chain&Operations Mgmt,3.0,T/Th,10:50 AM,12:05 PM,Sellinger Hall 223,Lecture,"Matthews, Mr Brant",24,24,0,Open,1/11/2027-5/7/2027,
+OM 260,04,Supply Chain&Operations Mgmt,3.0,T/Th,3:05 PM,4:20 PM,Sellinger Hall 001,Lecture,"Srinivasan, Dr Ravi",24,24,0,Open,1/11/2027-5/7/2027,
+OM 260,05,Supply Chain&Operations Mgmt,3.0,M/W,6:30 PM,7:45 PM,Sellinger Hall 107,Lecture,Staff,24,24,0,Open,1/11/2027-5/7/2027,
+OM 334,01,Global Supply Chain Strategy,3.0,T/Th,1:40 PM,2:55 PM,Knott Hall 108,Lecture,"Srinivasan, Dr Ravi",24,24,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."
+OM 406,01,Sourcing&Supply Chain Analyt,3.0,T/Th,12:15 PM,1:30 PM,Sellinger Hall 001,Lecture,"Matthews, Mr Brant",24,24,0,Open,1/11/2027-5/7/2027,*Restricted to juniors or seniors.
+OM 499,01,Internship in Operations Mgmt,3.0,M,6:30 PM,9:00 PM,Knott Hall B03,Lecture; Internship/Externship,"Fairchild, Dr Lisa",90,5,0,Open,1/11/2027-5/7/2027,*Restricted to seniors.
+REE 225,01,Real Estate,3.0,W,6:30 PM,9:00 PM,Sellinger Hall 223,Lecture,"Farley, Dori",25,15,0,Open,1/11/2027-5/7/2027,
+REE 235,01,Construction Management,3.0,T,6:30 PM,9:00 PM,Sellinger Hall 003,Lecture,"Cantley, Kelly",25,25,0,Open,1/11/2027-5/7/2027,
+REE 365,01,Accessible Housing Environment,3.0,W,6:30 PM,9:00 PM,Maryland Hall 242,Lecture,Staff,25,25,0,Open,1/11/2027-5/7/2027,
+REE 426,01,Sp Tp: Location Analytics,3.0,M/W,4:30 PM,5:45 PM,Sellinger Hall 003,Lecture,"Tallon, Dr Paul",24,12,0,Open,1/11/2027-5/7/2027,
+REE 445,01,Real Estate Modeling and Valu,3.0,Th,6:30 PM,9:00 PM,Sellinger Hall 223,Lecture,Staff,25,25,0,Open,1/11/2027-5/7/2027,
+REE 455,01,Real Estate Capstone,3.0,M,6:30 PM,9:00 PM,Maryland Hall 242,Lecture,Staff,25,25,0,Open,1/11/2027-5/7/2027,
+REE 499,01,Real Estate Internship,3.0,M,6:30 PM,9:00 PM,Knott Hall B03,Lecture; Internship/Externship,"Fairchild, Dr Lisa",90,7,0,Open,1/11/2027-5/7/2027,
+ST 110,01M,Intro Stats Meth&Data Analys,3.0,M/W/F ; F,12:00 PM ; 11:00 AM,12:50 PM ; 11:50 AM,Hammerman Hall 102 ; Hammerman Hall 102,Messina Seminar,"Auer, Dr Richard",16,1,0,Open,1/11/2027-5/7/2027,*Course open to BA degree candidates only. *Restricted to first-year students. *You must be manually registered for the Messina seminar.
+ST 110,02M,Intro Stats Meth&Data Analys,3.0,M/W/F ; W,1:00 PM ; 2:00 PM,1:50 PM ; 2:50 PM,Hammerman Hall 102 ; Hammerman Hall 102,Messina Seminar,"Auer, Dr Richard",16,2,0,Open,1/11/2027-5/7/2027,*Course open to BA degree candidates only. *Restricted to first-year students. *You must be manually registered for the Messina seminar.
+ST 110,03,Intro Stats Meth&Data Analys,3.0,M/W,4:30 PM,5:45 PM,Knott Hall 305,Lecture,"Auer, Dr Richard",30,30,0,Open,1/11/2027-5/7/2027,*Course open to BA degree candidates only.
+ST 110,04,Intro Stats Meth&Data Analys,3.0,M/W,6:00 PM,7:15 PM,Knott Hall 009,Lecture,"Auer, Dr Richard",30,30,0,Open,1/11/2027-5/7/2027,*Course open to BA degree candidates only.
+ST 110,05,Intro Stats Meth&Data Analys,3.0,T/Th,6:00 PM,7:15 PM,Knott Hall 305,Lecture,"Abeywardana, Dilmi",30,30,0,Open,1/11/2027-5/7/2027,*Course open to BA degree candidates only.
+ST 210,01,Introduction to Statistics,3.0,M/W/F,9:00 AM,9:50 AM,Knott Hall 107,Lecture,"Iluppangama, Dr Malinda",30,30,0,Open,1/11/2027-5/7/2027,
+ST 210,02,Introduction to Statistics,3.0,M/W/F,10:00 AM,10:50 AM,Sellinger Hall 201,Lecture,"Iluppangama, Dr Malinda",30,30,0,Open,1/11/2027-5/7/2027,
+ST 210,03,Introduction to Statistics,3.0,M/W/F,11:00 AM,11:50 AM,Sellinger Hall 201,Lecture,"Lee, Dr Bu Hyoung",30,30,0,Open,1/11/2027-5/7/2027,
+ST 210,04,Introduction to Statistics,3.0,M/W/F,1:00 PM,1:50 PM,Knott Hall 107,Lecture,"Deshpande, Ms Neeta",30,30,0,Open,1/11/2027-5/7/2027,
+ST 210,05,Introduction to Statistics,3.0,M/W/F,2:00 PM,2:50 PM,Knott Hall 007,Lecture,"Deshpande, Ms Neeta",30,30,0,Open,1/11/2027-5/7/2027,
+ST 210,06,Introduction to Statistics,3.0,M/W/F,12:00 PM,12:50 PM,Knott Hall 009,Lecture,"Drummey, Dr Kevin",30,30,0,Open,1/11/2027-5/7/2027,
+ST 265,01,Biostatistics,3.0,T/Th,4:30 PM,5:45 PM,Knott Hall 309,Lecture,"Abeywardana, Dilmi",30,30,0,Open,1/11/2027-5/7/2027,
+ST 310,01,Statistical Computing,3.0,M/W/F,2:00 PM,2:50 PM,Knott Hall 318,Lecture,"Iluppangama, Dr Malinda",20,20,0,Open,1/11/2027-5/7/2027,
+ST 462,01,Elem of Stat Theory II: Infer,3.0,M/W/F,1:00 PM,1:50 PM,Knott Hall 105,Lecture,"Lee, Dr Bu Hyoung",20,20,0,Open,1/11/2027-5/7/2027,
+ST 472,01,Applied Multivariate Analysis,3.0,M/W/F,10:00 AM,10:50 AM,Maryland Hall 342,Lecture,"Drummey, Dr Kevin",30,30,0,Open,1/11/2027-5/7/2027,"*Restricted to sophomores, juniors, or seniors."

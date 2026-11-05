@@ -1,0 +1,9 @@
+{
+  "name": "sellinger-advisor",
+  "displayName": "Sellinger Advisor",
+  "version": "0.1.0",
+  "description": "For Sellinger School of Business faculty advisors at Loyola University Maryland: turn a DegreeWorks audit into a validated graduation plan and advisor brief, check proposed schedules, and look up 2026-27 courses, sections and policies. Planning aid only; the advisor approves everything.",
+  "author": { "name": "Jason Cherubini" },
+  "license": "MIT",
+  "keywords": ["advising", "degreeworks", "loyola", "sellinger", "course-planning"]
+}
